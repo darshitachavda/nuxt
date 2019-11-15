@@ -1,4 +1,4 @@
-
+/* this is test changes */
 export default {
   mode: 'spa',
   /*
